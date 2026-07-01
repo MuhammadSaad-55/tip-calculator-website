@@ -2,7 +2,7 @@
 
 A simple and interactive tip calculator built with HTML, CSS, and JavaScript that allows users to input a bill amount and tip percentage to instantly calculate the total and per-person split.
 
-🔗 **Live Demo:** [your-live-link-here](#)
+🔗 **Live Demo:** [https://tip-calculator-website-eta.vercel.app/](https://tip-calculator-website-eta.vercel.app/)
 
 ---
 
